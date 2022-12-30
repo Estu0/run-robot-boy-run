@@ -1,0 +1,14 @@
+## Source de médias
+### Images
+  - Ciel, Terre, Ballon, RobotBoy.   https://www.assetstore.unity3d.com/en/#!/content/11228
+  - Nuages, soleil, foudre. Dessins personnels
+
+### Audio
+  - Musique. Banque de sons Apple Logic
+  - Vent. SoundBible http://soundbible.com/635-Wind.html
+  - Criquets. SoundBible http://soundbible.com/951-Nightime.html
+  - Foudre. SoundBible http://soundbible.com/1913-Thunder-HD.html
+
+### Polices
+  - 28_days_later. dafont.com http://www.dafont.com/28-days-later.font
+  - Monoton. google.com https://fonts.google.com/sspecimen/Monoton
