@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672445945/Miscellaneous/Run%20Robot%20Boy%20Run%20-%20Readme/robot-wood_mqzytz.png" alt="logo" width="400" height="auto" />
-  <h1>Movie Watch List</h1>
+  <h1>Run Robot Boy Run!</h1>
  
 <!-- Badges -->
 <p>
@@ -53,7 +53,8 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-The app allows to create category lists in which favorite movies can be saved.
+A platform game, developed in Unity, with animations and controls using a keyboard, platform designed using 2DSpriteShape functionality
+and presence of accessory objects animated using Timeline with which the character interacts.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -71,22 +72,9 @@ The app allows to create category lists in which favorite movies can be saved.
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Backend Development</summary>
+  <summary>Programming Language</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Frontkend Development</summary>
-  <ul>
-    <li><a href="https://webpack.js.org/">Webpack</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
-    <li><a href="https://www.w3.org/html/">HTML</a></li>
-    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a></li>
   </ul>
 </details>
 
@@ -103,11 +91,7 @@ The app allows to create category lists in which favorite movies can be saved.
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
+Installation of Unity 2021.3.16f1 is required to execute the app.
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -115,7 +99,7 @@ This project uses Yarn as package manager
 Clone the project
 
 ```bash
-  git clone https://github.com/Estu0/rails-movie-watch-list.git
+  git clone https://github.com/Estu0/run-robot-boy-run.git
 ```
 
 Go to the project directory
@@ -124,24 +108,11 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
-
-```bash
-  yarn install
-```
-
-```bash
-  npm install tom-select
-```
-
-```bash
-  npm i star-rating.js
-```
-
 <!-- Usage -->
 ## :eyes: Usage
 
 <p>
+Character can perform different actions such as jumping (press key-up or W twice), crouching (press and maintain S) and rolling (press X). The game comprises a background music. Different interactions with accessories. Balls and hearths provide 1 additional life (Bonus). A bomb will explode and remove 1 life (Malus). Falling into lava will instantly end the game (Mortem).  
 </p>
 <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672445945/Miscellaneous/Run%20Robot%20Boy%20Run%20-%20Readme/robot-bomb_tiqhag.png" alt="logo" width="600" height="auto" />
 <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672445945/Miscellaneous/Run%20Robot%20Boy%20Run%20-%20Readme/robot-explosion_xyf5w9.png" alt="logo" width="600" height="auto" />
@@ -153,7 +124,6 @@ Install dependencies
 <p>
 </p>
 <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672445945/Miscellaneous/Run%20Robot%20Boy%20Run%20-%20Readme/robot-life_vgu1mr.png" alt="logo" width="600" height="auto" />
-This app enables you to create & delete lists of movie categories. Once a list is created movies can be added to it.
 
 <!-- Contributing -->
 ## :wave: Contributing
@@ -177,5 +147,4 @@ Don't forget to give the project a star! Thanks again!
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
- - [https://developers.themoviedb.org/3](https://tmdb.lewagon.com/movie/top_rated)
- - [LeWagon](https://www.lewagon.com/)
+ - [IFT1119](https://admission.umontreal.ca/cours-et-horaires/cours/ift-1119/)
